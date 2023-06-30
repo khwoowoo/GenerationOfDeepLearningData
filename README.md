@@ -1,7 +1,6 @@
 # GenerationOfDeepLearningData
 개별연구(CS 게임엔진을 활용한 딥러닝 분석용 데이터 생성 연구)
 
-[개별 연구 결과 보고서_2020112014_강현우.pdf](https://github.com/khwoowoo/GenerationOfDeepLearningData/files/11912700/_2020112014_.pdf)
 ##
 ![슬라이드1](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/842b543a-89ee-4d4a-b068-5a01aa92d935)
 ##
