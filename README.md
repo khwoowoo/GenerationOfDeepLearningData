@@ -1,7 +1,8 @@
-# GenerationOfDeepLearningData
-개별연구(CS 게임엔진을 활용한 딥러닝 분석용 데이터 생성 연구)
+### 개별연구(CS 게임엔진을 활용한 딥러닝 분석용 데이터 생성 연구) 🤖
 
-##
+![1-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/6fbf06b0-4c2a-405d-b70d-77504057d0b3)
+
+
 ![슬라이드1](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/842b543a-89ee-4d4a-b068-5a01aa92d935)
 ##
 ![슬라이드2](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/3fa03df4-d7a2-41f9-b8a1-ada06f3d1542)
