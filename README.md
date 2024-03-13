@@ -7,7 +7,10 @@
 > 게임엔진에 기반한 합성 데이터를 생성하고 데이터가 의미가 있다는 것을 증명하는 연구이며,  딥러닝 모델의 학습 및 실험에 활용하기 위한 데이터셋 생성하는 것이다.
 > 
 
+### 구현 화면 🤖
 
+![ThirdPersonExampleMap_backup_10-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/39158998-e90c-4d89-9446-2e2dd7336044)
+![ThirdPersonExampleMap_backup-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/8621380b-b547-4c58-9151-f0cadfacda1c)
 ![1-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/6fbf06b0-4c2a-405d-b70d-77504057d0b3)
 
 <br>
