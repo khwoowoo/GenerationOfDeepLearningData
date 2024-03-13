@@ -9,8 +9,14 @@
 
 ### 구현 화면 🤖
 
+#### 낙상 영상
 ![ThirdPersonExampleMap_backup_10-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/39158998-e90c-4d89-9446-2e2dd7336044)
-![ThirdPersonExampleMap_backup-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/8621380b-b547-4c58-9151-f0cadfacda1c)
+
+#### 정상 영상
+![ThirdPersonExampleMap_backup_26-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/e6a2f82a-52b7-40fa-aed9-c4edabe1e470)
+
+
+#### 딥러닝 데이터 생성 실행 화면
 ![1-ezgif com-video-to-gif-converter](https://github.com/khwoowoo/GenerationOfDeepLearningData/assets/23547185/6fbf06b0-4c2a-405d-b70d-77504057d0b3)
 
 <br>
